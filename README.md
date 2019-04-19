@@ -2,4 +2,4 @@
 
 ## official website
 
-[React 中文官网](https://react.docschina.org/docs/hello-world.html)
+[React 中文官网](https://zh-hans.reactjs.org/)
